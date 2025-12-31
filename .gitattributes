@@ -1,0 +1,2 @@
+# 7z ファイルを Git LFS で管理
+*.7z filter=lfs diff=lfs merge=lfs -text
